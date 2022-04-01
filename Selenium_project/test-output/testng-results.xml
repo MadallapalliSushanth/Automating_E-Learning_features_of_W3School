@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="149794" started-at="2022-03-31T19:11:00 IST" finished-at="2022-03-31T19:13:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="149794" started-at="2022-03-31T19:11:00 IST" finished-at="2022-03-31T19:13:29 IST">
+      <class name="com.sit.com.sit.W3School.Test_whole_W3School">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="beforeTest" is-config="true" duration-ms="7934" started-at="2022-03-31T19:11:00 IST" finished-at="2022-03-31T19:11:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testcase_1()[pri:1, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="testcase_1" duration-ms="2870" started-at="2022-03-31T19:11:07 IST" finished-at="2022-03-31T19:11:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_1 -->
+        <test-method status="PASS" signature="testcase_2()[pri:2, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="testcase_2" duration-ms="8299" started-at="2022-03-31T19:11:10 IST" finished-at="2022-03-31T19:11:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_2 -->
+        <test-method status="PASS" signature="testcase_3()[pri:3, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="testcase_3" duration-ms="2082" started-at="2022-03-31T19:11:19 IST" finished-at="2022-03-31T19:11:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_3 -->
+        <test-method status="PASS" signature="testcase_4()[pri:4, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="testcase_4" duration-ms="8120" started-at="2022-03-31T19:11:21 IST" finished-at="2022-03-31T19:11:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_4 -->
+        <test-method status="PASS" signature="testcase_5()[pri:5, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="testcase_5" duration-ms="10018" started-at="2022-03-31T19:11:29 IST" finished-at="2022-03-31T19:11:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_5 -->
+        <test-method status="PASS" signature="testcase_6()[pri:6, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="testcase_6" duration-ms="11355" started-at="2022-03-31T19:11:39 IST" finished-at="2022-03-31T19:11:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_6 -->
+        <test-method status="PASS" signature="testcase_7()[pri:7, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="testcase_7" duration-ms="4769" started-at="2022-03-31T19:11:50 IST" finished-at="2022-03-31T19:11:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_7 -->
+        <test-method status="PASS" signature="testcase_8()[pri:8, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="testcase_8" duration-ms="11961" started-at="2022-03-31T19:11:55 IST" finished-at="2022-03-31T19:12:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_8 -->
+        <test-method status="PASS" signature="testcase_9()[pri:9, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="testcase_9" duration-ms="17031" started-at="2022-03-31T19:12:07 IST" finished-at="2022-03-31T19:12:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_9 -->
+        <test-method status="PASS" signature="testcase_10()[pri:10, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="testcase_10" duration-ms="17945" started-at="2022-03-31T19:12:24 IST" finished-at="2022-03-31T19:12:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_10 -->
+        <test-method status="PASS" signature="testcase_11()[pri:11, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="testcase_11" duration-ms="32938" started-at="2022-03-31T19:12:42 IST" finished-at="2022-03-31T19:13:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_11 -->
+        <test-method status="PASS" signature="testcas_12()[pri:12, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="testcas_12" duration-ms="13610" started-at="2022-03-31T19:13:15 IST" finished-at="2022-03-31T19:13:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcas_12 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.sit.com.sit.W3School.Test_whole_W3School@eafc191]" name="afterTest" is-config="true" duration-ms="806" started-at="2022-03-31T19:13:29 IST" finished-at="2022-03-31T19:13:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.sit.com.sit.W3School.Test_whole_W3School -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
